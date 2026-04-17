@@ -1,2 +1,2 @@
-# beedeebot26_7
+# beedeebot
 it is a java script to run the textrix robot
