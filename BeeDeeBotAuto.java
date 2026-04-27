@@ -95,13 +95,9 @@ public class BeeDeeBotAuto extends LinearOpMode {
 
         // Step through each leg of the path, ensuring that the OpMode has not been stopped along the way.
 
-        driveForward(1500);
-        turnLeft(2500);
+        driveForward(2000);
+        turnLeft(5000);
         driveForward(1000);
-        driveForward(1500);
-        turnLeft(1000);
-        driveForward(1000);
-        turnLeft(-1000);
     }
     
     private void driveForward(int time){ //time in millis
